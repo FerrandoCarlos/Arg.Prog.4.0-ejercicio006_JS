@@ -1,0 +1,6 @@
+Ejercicio 6:
+Crear una función de multiplicación que recibe dos parámetros.
+Las condiciones son:
+*Los parámetros se multiplican entre si en el caso de que ambos sean positivos. 
+Mostrar el resultado de la cuenta en la consola.
+*Si unos o ambos números no son positivos no realizar la multiplicación y mostrar un mensaje de error en la consola.
